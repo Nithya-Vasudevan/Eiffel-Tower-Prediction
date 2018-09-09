@@ -27,6 +27,9 @@ Implementation:
      
 Installation:
      If Keras/Tensorflow is not installed,
+
 Install Tensorflow using pip install tensorflow
+
 Install keras using conda install keras 
+
 Keras runs on top of Tensorflow. So Tensorflow installation is mandatory.
