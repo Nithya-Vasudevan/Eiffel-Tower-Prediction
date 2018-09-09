@@ -19,3 +19,8 @@ Step 4:
 
 Finally, we have an activation function such as softmax or sigmoid to classify the output.
 
+Implementation:
+     This problem statement is implemented using Keras Library (Python 3.6 version) in just  lines of code.
+     Training, Test data are available in the Dataset folder.
+     
+
