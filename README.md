@@ -6,8 +6,8 @@ To predict whether a given image is an Eiffel Tower or not using Convolutional N
 The process of building a Convolutional Neural Network 
 
 Step 1: 
-      Convolution - It is the first layer to extract features from an input image. Convolution preserves the relationship between pixels by learning image features using small squares of input data
-      Step 1(B): ReLU - ReLU stands for Rectified Linear Unit for a non-linear operation. The output is ƒ(x) = max(0,x). ReLU’s purpose is to introduce non-linearity in our ConvNet. Since, the real world data would want our ConvNet to learn would be non-negative linear values.
+      Convolution - It is the first layer to extract features from an input image. Convolution preserves the relationship between pixels by learning image features using small squares of input data.
+Step 1(B): ReLU - ReLU stands for Rectified Linear Unit for a non-linear operation. The output is ƒ(x) = max(0,x). ReLU’s purpose is to introduce non-linearity in the ConvNet. Since, the real world data would want the ConvNet to learn would be non-negative linear values.
 
 Step 2:
       Pooling - Pooling layers section would reduce the number of parameters when the images are too large.
