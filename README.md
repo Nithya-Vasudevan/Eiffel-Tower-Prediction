@@ -20,7 +20,13 @@ Step 4:
 Finally, we have an activation function such as softmax or sigmoid to classify the output.
 
 Implementation:
-     This problem statement is implemented using Keras Library (Python 3.6 version) in just  lines of code.
+     This problem statement is implemented using Keras Library (Python 3.6 version) in less than 30 lines of code.
      Training, Test data are available in the Dataset folder.
+     Source code is available in Program.py file.
      
-
+     
+Installation:
+     If Keras/Tensorflow is not installed,
+Install Tensorflow using pip install tensorflow
+Install keras using conda install keras 
+Keras runs on top of Tensorflow. So Tensorflow installation is mandatory.
